@@ -1,0 +1,42 @@
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\Staff Database Mannagement System.exe
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\Staff Database Mannagement System.pdb
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\Staff Database Mannagement System.xml
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.Resources.resources
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.vbproj.GenerateResource.Cache
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.exe
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.xml
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.pdb
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.login.resources
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.MainForm.resources
+c:\users\ola\documents\visual studio 2010\Projects\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.vbproj.ResolveComReference.cache
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\Staff Database Mannagement System.exe.config
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\Staff Database Mannagement System.exe
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\Staff Database Mannagement System.pdb
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\Staff Database Mannagement System.xml
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\AForge.dll
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\AForge.Video.dll
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\AForge.xml
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\AForge.Video.xml
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.vbproj.ResolveComReference.cache
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.AddStaffForm.resources
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.Camera.resources
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.FingerPrintForm.resources
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.login.resources
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.MainForm.resources
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.Resources.resources
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.StaffPosting.resources
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.StaffRecords.resources
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.UpdateRecord.resources
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.vbproj.GenerateResource.cache
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.vbproj.CoreCompileInputs.cache
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.vbproj.CopyComplete
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.exe
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.xml
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.pdb
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff Database Mannagement System.vbprojAssemblyReference.cache
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\bin\Debug\ADODB.dll
+C:\Users\Ola\source\repos\Staff Database Mannagement System\Staff Database Mannagement System\obj\x86\Debug\Staff_Database_Mannagement_System.DateTimeInterval.resources
